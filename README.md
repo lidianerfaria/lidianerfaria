@@ -3,7 +3,7 @@
 - I currently work with front-end
 - I'm excited to learn something new every day!
 - 😻 I'm a cat lover! 
-- Contact me at: lidianerdefaria@gmai.com
+- Contact me at: lidianerdefaria@gmail.com
 <div>
   <a href="https://github.com/lidianerfaria">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lidianerfaria&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
