@@ -17,13 +17,14 @@
   <img align="center" alt="Lidi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lidi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lidi-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"> 
-  <img height="180em" width="180em"align="right" alt="Lidi-cat" src="https://im2.ezgif.com/tmp/ezgif-2-fe0c7eaa1498.gif">
 </div>
 
 ##
   
 <div> 
   <a href="https://www.linkedin.com/in/lidianerfaria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lidianerdefaria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  	<a href="https://instagram.com/aroundfloating" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+![Webp net-gifmaker (1)](https://user-images.githubusercontent.com/69022808/131234142-02c3389c-c64e-46a1-8868-fdbfe8551acd.gif)
+
