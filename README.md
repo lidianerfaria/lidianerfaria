@@ -1,9 +1,7 @@
 ### Hi! I'm Lidiane.
 
-- I currently work with front-end
-- I'm excited to learn something new every day!
-- 😻 I'm a cat lover! 
-- Contact me at: lidianerdefaria@gmail.com
+- I'm Front-end Developer and a cat lover 😻 
+- Contact me at: lidianerdefaria@gmail.com or <a href="https://www.linkedin.com/in/lidianerfaria" target="_blank">LinkedIn</a>
 <div>
   <a href="https://github.com/lidianerfaria">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lidianerfaria&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
