@@ -13,10 +13,9 @@
 </div>
 
 ##
-  
+
+![Webp net-gifmaker (1)](https://user-images.githubusercontent.com/69022808/131234142-02c3389c-c64e-46a1-8868-fdbfe8551acd.gif)
 <div> 
   <a href="https://www.linkedin.com/in/lidianerfaria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-![Webp net-gifmaker (1)](https://user-images.githubusercontent.com/69022808/131234142-02c3389c-c64e-46a1-8868-fdbfe8551acd.gif)
 
