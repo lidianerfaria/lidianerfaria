@@ -1,5 +1,4 @@
 ## Hi! I'm Lidiane Faria 🪄
-![Webp net-gifmaker (1)](https://user-images.githubusercontent.com/69022808/131234142-02c3389c-c64e-46a1-8868-fdbfe8551acd.gif)
 
 - I'm Software Developer for more than 3 years, and a cat lover 😻
 - 👩‍💻 I’m currently working as Pleno Frontend Developer at XPROG
