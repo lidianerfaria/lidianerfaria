@@ -2,10 +2,12 @@
 
 - I'm Software Developer for more than 3 years, and a cat lover 😻
 - 👩‍💻 I’m currently working as Pleno Frontend Developer at XPROG
-- Contact me: 
+  <br/>
+### Contact me: 
 <div> 
   <a href="https://www.linkedin.com/in/lidianerfaria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lidianerdefaria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <br/>
+ ✉️ lidianerdefaria@gmail.com
 </div>
 
 #
