@@ -1,7 +1,7 @@
 ## Hi! I'm Lidiane Faria 🪄
 
-- I'm Software Developer for more than 3 years, and a cat lover 😻
-- 👩‍💻 I’m currently working as Pleno Frontend Developer at XPROG
+- I'm Software Developer and a cat lover 😻
+- 👩‍💻 I’m currently working as Frontend Developer at XPROG
   <br/>
 ### Contact me: 
 <div> 
