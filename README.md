@@ -1,7 +1,7 @@
 ## Hi! I'm Lidiane Faria 🪄
 
-- I'm Software Developer and a cat lover 😻
-- 👩‍💻 I’m currently working as Frontend Developer at XPROG
+- I'm Software Engineer and a cat lover 😻
+- 👩‍💻 I’m currently working as Fullstack Developer at Sambatech
   <br/>
 ### Contact me: 
 <div> 
